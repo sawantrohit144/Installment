@@ -1,2 +1,2 @@
 # PO Installment
-This is a Project called Installment System. The application is a web-based software that manages certain company/shop installment sale transactions. The system can be accessed by 3 types of users which are the Admin, Employee, and Customer. This system manages the customer installment requests and payments.
+This project, called Installment System, is a web-based application designed to manage installment sale transactions for a company or shop. The system can be accessed by three types of users: Admin, Employee, and Customer. It manages customer installment requests and payments.
